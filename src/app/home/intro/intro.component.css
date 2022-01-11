@@ -13,6 +13,7 @@ pre
     border-radius: 10px;
     width: max-content;
     display: flex;
+    justify-content: center;
 }
 
 .container2
@@ -22,4 +23,5 @@ pre
     width: 90vh;
     display: flex;
     border-radius: 10px;
+    justify-content: center;
 }
