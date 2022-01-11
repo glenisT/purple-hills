@@ -1,0 +1,16 @@
+.navbar
+{
+    display: flex;
+    justify-content: center;
+}
+
+ul > li
+{
+    display: inline;
+    padding: 5vh;
+    justify-content: center;
+    font-family: title;
+    font-size: large;
+    text-decoration: none;
+}
+
