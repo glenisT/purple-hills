@@ -1,0 +1,11 @@
+footer
+{
+    color: whitesmoke;
+}
+
+ul > li
+{
+    display: inline;
+    padding: 5vh;
+    justify-content: center;
+}

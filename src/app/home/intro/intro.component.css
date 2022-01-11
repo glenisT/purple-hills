@@ -7,10 +7,19 @@ pre
 
 .container
 {
-    margin-top: 20vh;
+    margin-top: 10vh;
     margin-left: 55vh;
     background-color: rgba(105, 90, 205, 0.459);
     border-radius: 10px;
     width: max-content;
     display: flex;
+}
+
+.container2
+{
+    margin-left: 55vh;
+    border-radius: 10px;
+    width: 90vh;
+    display: flex;
+    border-radius: 10px;
 }

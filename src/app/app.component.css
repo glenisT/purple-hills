@@ -1,5 +1,6 @@
-html, body
+html
 {
+    background-color: black;
     height: 100%;
     width: auto;
     background-image: url('../Purplehills.jpg');
