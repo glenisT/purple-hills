@@ -1,0 +1,16 @@
+pre
+{
+    color: rgb(216, 214, 214);
+    font-family: roboto;
+    text-align: center;
+}
+
+.container
+{
+    margin-top: 20vh;
+    margin-left: 55vh;
+    background-color: rgba(105, 90, 205, 0.459);
+    border-radius: 10px;
+    width: max-content;
+    display: flex;
+}

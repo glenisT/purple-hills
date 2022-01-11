@@ -9,8 +9,22 @@ ul > li
     display: inline;
     padding: 5vh;
     justify-content: center;
-    font-family: title;
-    font-size: large;
-    text-decoration: none;
 }
 
+a
+{
+    font-family: title;
+    font-size: 2.5vh;
+    text-decoration: none;
+    color: rgb(182, 134, 0);
+}
+
+a:hover
+{
+    color: rgb(158, 116, 0);
+}
+
+a:active
+{
+    color: rgb(221, 206, 0);
+}
