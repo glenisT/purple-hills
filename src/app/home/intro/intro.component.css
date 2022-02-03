@@ -7,7 +7,6 @@ pre
 
 .main-container
 {
-    border-radius: 10px;
     width: max-content;
     display: flex;
     flex-direction: column;
@@ -18,13 +17,9 @@ pre
 {
     border-radius: 10px;
     width: max-content;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 
-.container2
+.description
 {
-    border-radius: 10px;
-    width: 90vh;
+    background-color: blueviolet;
 }
