@@ -20,7 +20,7 @@ import { IntroComponent } from './home/intro/intro.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -5,23 +5,26 @@ pre
     text-align: center;
 }
 
-.container
+.main-container
 {
-    margin-top: 10vh;
-    margin-left: 55vh;
-    background-color: rgba(105, 90, 205, 0.459);
     border-radius: 10px;
     width: max-content;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container
+{
+    border-radius: 10px;
+    width: max-content;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
 .container2
 {
-    margin-left: 55vh;
     border-radius: 10px;
     width: 90vh;
-    display: flex;
-    border-radius: 10px;
-    justify-content: center;
 }
