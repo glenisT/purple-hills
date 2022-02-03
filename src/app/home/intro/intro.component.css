@@ -15,11 +15,9 @@ pre
 
 .container
 {
-    border-radius: 10px;
-    width: max-content;
 }
 
 .description
 {
-    background-color: blueviolet;
+    background-color: rgba(137, 43, 226, 0.651);
 }
